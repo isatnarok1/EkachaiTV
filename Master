@@ -15,25 +15,25 @@
 {
 "name": "Thai Truesports",
 "image": "https://www.img.in.th/images/d5c07695e926a53ad90d4da118bbb011.gif",
-"url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/THAISPORT",
+"url": "",
 "import": false
 },
 {
 "name": "World Sports",
 "image": "https://www.img.in.th/images/d39774a03e255dd185cf60ef32489ed8.gif",
-"url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/WORLDSPORTS",
+"url": "",
 "import": false
 },
 {
 "name": "NEWS LIVE",
 "image": "https://user-images.githubusercontent.com/50719456/106423007-2c874f00-6492-11eb-821a-6282a828c833.gif",
-"url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/NewsLive",
+"url": "",
 "import": false
 },
 {
 "name": "Cartoon Kids",
 "image": "https://www.img.in.th/images/803dbaf24d8aa0c763cf648bc8ce4707.gif",
-"url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/CARTOONKIDS",
+"url": "",
 "import": false
 },
 {
@@ -51,7 +51,7 @@
 {
 "name": "US255 byisanarok",
 "image": "https://www.team-mediaportal.com/media/com_mtree/images/listings/o/1948.png",
-"url": "https://raw.githubusercontent.com/isatnarok/HERO_Channel/main/US255_byisanarok.m3u",
+"url": "",
 "import": false
 },
 {
